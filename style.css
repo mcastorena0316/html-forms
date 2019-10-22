@@ -18,6 +18,7 @@ header button {
     background-color: #0077C5;
     border-radius: 5px;
     color: white;
+    border:none
 }
 
 header h5 {
@@ -27,8 +28,7 @@ header h5 {
 }
 
 main {
-    width: 318px;
-    height: 606px;
+    width: 350px;
     padding: 30px;
     margin: 0 auto;
     justify-content: center;
@@ -40,4 +40,92 @@ main img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+fieldset span{
+    font-size:24px;
+    color: #4C4C4C;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#account{
+    font-size:14px;
+    color: #4C4C4C;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    text-align: center
+}
+
+form{
+    background-color: white;
+    width: 100%
+}
+
+fieldset label{
+    color: #404040;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#e-mail, #phone{
+    margin-top: 5px;
+    margin-bottom: 30px;
+    border: 1px solid #C1C5C8;
+    border-radius: 3px;
+    width: 320px;
+    height: 24px;
+
+
+}
+
+#password{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #C1C5C8;
+    border-radius: 3px;
+    width: 320px;
+    height: 24px;
+    
+
+}
+
+#e-mail:focus, #phone:focus, #password:focus{
+    border: 1px solid #52A8EC;
+    box-shadow: 0 1px 1px rgba(0,0,0,.075) inset, 0 0 8px rgba(82,168,236, 0.6)
+}
+
+
+#fieldset1{
+    border-bottom: none
+}
+
+#fieldset2{
+    border-top: none;
+    width: 324px;
+}
+
+
+fieldset button {
+    
+    width: 294px;
+    height: 32px;
+    background-color: #0077C5;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fieldset2 p{
+    font-size: 12px;
+    font-style: italic;
+    color: #757575;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px
 }
