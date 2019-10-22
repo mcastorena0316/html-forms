@@ -1,5 +1,5 @@
 body {
-    background-color: #ECEEF1;
+    background-color: #eceef1;
 }
 
 header {
@@ -42,7 +42,7 @@ main img {
     margin-right: auto;
 }
 
-fieldset span{
+fieldset span {
     font-size:24px;
     color: #4C4C4C;
     font-family: Arial, Helvetica, sans-serif;
@@ -51,7 +51,7 @@ fieldset span{
     margin-top: 20px;
 }
 
-#account{
+#account {
     font-size:14px;
     color: #4C4C4C;
     font-family: Arial, Helvetica, sans-serif;
@@ -59,50 +59,49 @@ fieldset span{
     text-align: center
 }
 
-form{
+form {
     background-color: white;
     width: 100%
 }
 
-fieldset label{
+fieldset label {
     color: #404040;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif
 }
 
-#e-mail, #phone{
+#e-mail,
+#phone {
     margin-top: 5px;
     margin-bottom: 30px;
     border: 1px solid #C1C5C8;
     border-radius: 3px;
     width: 320px;
     height: 24px;
-
-
 }
 
-#password{
+#password {
     margin-top: 5px;
     margin-bottom: 15px;
     border: 1px solid #C1C5C8;
     border-radius: 3px;
     width: 320px;
     height: 24px;
-    
-
 }
 
-#e-mail:focus, #phone:focus, #password:focus{
+#e-mail:focus, 
+#phone:focus, 
+#password:focus {
     border: 1px solid #52A8EC;
     box-shadow: 0 1px 1px rgba(0,0,0,.075) inset, 0 0 8px rgba(82,168,236, 0.6)
 }
 
 
-#fieldset1{
+#fieldset1 {
     border-bottom: none
 }
 
-#fieldset2{
+#fieldset2 {
     border-top: none;
     width: 324px;
 }
@@ -121,7 +120,7 @@ fieldset button {
     margin-right: auto;
 }
 
-#fieldset2 p{
+#fieldset2 p {
     font-size: 12px;
     font-style: italic;
     color: #757575;
