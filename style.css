@@ -1,5 +1,5 @@
 body {
-        background-color: #eceef1;
+    background-color: #eceef1;
 }
 
 header {
@@ -18,7 +18,7 @@ header button {
     background-color: #0077c5;
     border-radius: 5px;
     color: white;
-    border: none
+    border: none;
 }
 
 header h5 {
@@ -83,23 +83,22 @@ fieldset span {
     margin-bottom: 0;
 }
 
-#fieldset1 a{
+#fieldset1 a {
     display: block;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
-
 }
 
 form {
     background-color: white;
-    width: 100%
+    width: 100%;
 }
 
 fieldset label {
     color: #404040;
     font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #e-mail,
@@ -125,11 +124,11 @@ fieldset label {
 #phone:focus,
 #password:focus {
     border: 1px solid #52A8EC;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, .075) inset, 0 0 8px rgba(82, 168, 236, 0.6)
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
 }
 
 #fieldset1 {
-    border-bottom: none
+    border-bottom: none;
 }
 
 #fieldset2 {
@@ -155,24 +154,22 @@ fieldset button {
     color: #757575;
     text-align: center;
     margin-top: 25px;
-    margin-bottom: 25px
+    margin-bottom: 25px;
 }
 
-footer p{
+footer p {
     color: #505050;
     font-size: 12px;
     display: block;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    
 }
 
-#copywright{
+#copywright {
     margin-bottom: 0;
-
-
 }
-#terms{
-    margin-top:0;
+
+#terms {
+    margin-top: 0;
     margin-bottom: 20px
 }
