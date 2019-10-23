@@ -11,7 +11,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![HTML Forms][product-screenshot]](ttps://raw.githack.com/mcastorena0316/html-forms/feature-branch/index.html)
 
 URL to the live version of our project: [HTML Forms](https://raw.githack.com/mcastorena0316/html-forms/feature-branch/index.html)
 
@@ -37,9 +36,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Melissa Castorena - [email](mcastorena0316@gmail.com)
+Melissa Castorena - mcastorena0316@gmail.com
 
-Ermin Cahtarevic - [email](erminc@windowslive.com)
+Ermin Cahtarevic - erminc@windowslive.com
 
 Project Link: [HTML Forms](https://github.com/mcastorena0316/html-forms/tree/feature-branch)
 
