@@ -124,7 +124,7 @@ fieldset label {
 #phone:focus,
 #password:focus {
   border: 1px solid #52a8ec;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, .075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
 }
 
 #fieldset1 {
@@ -148,6 +148,14 @@ fieldset button {
   margin-right: auto;
 }
 
+footer p {
+  color: #505050;
+  font-size: 12px;
+  display: block;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 #fieldset2 p {
   font-size: 12px;
   font-style: italic;
@@ -157,20 +165,12 @@ fieldset button {
   margin-bottom: 25px;
 }
 
-footer p {
-  color: #505050;
-  font-size: 12px;
-  display: block;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 #copywright {
   margin-bottom: 0;
 }
 
 #terms {
   margin-top: 0;
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
 
