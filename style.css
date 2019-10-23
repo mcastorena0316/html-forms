@@ -18,7 +18,7 @@ header button {
     background-color: #0077C5;
     border-radius: 5px;
     color: white;
-    border:none
+    border: none
 }
 
 header h5 {
@@ -42,8 +42,31 @@ main img {
     margin-right: auto;
 }
 
+.logo1 {
+    width: 60px;
+    height: 19px;
+    margin: 10px 5px 15px;
+}
+
+.logo2 {
+    width: 113px;
+    height: 19px;
+    margin: 10px 5px 15px;
+}
+
+.logo3 {
+    width: 92px;
+    height: 19px;
+    margin: 10px 5px 15px;
+}
+
+#logo-container {
+    display: flex;
+    justify-content: center;
+}
+
 fieldset span {
-    font-size:24px;
+    font-size: 24px;
     color: #4C4C4C;
     font-family: Arial, Helvetica, sans-serif;
     display: block;
@@ -52,7 +75,7 @@ fieldset span {
 }
 
 #account {
-    font-size:14px;
+    font-size: 14px;
     color: #4C4C4C;
     font-family: Arial, Helvetica, sans-serif;
     display: block;
@@ -89,13 +112,12 @@ fieldset label {
     height: 24px;
 }
 
-#e-mail:focus, 
-#phone:focus, 
+#e-mail:focus,
+#phone:focus,
 #password:focus {
     border: 1px solid #52A8EC;
-    box-shadow: 0 1px 1px rgba(0,0,0,.075) inset, 0 0 8px rgba(82,168,236, 0.6)
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .075) inset, 0 0 8px rgba(82, 168, 236, 0.6)
 }
-
 
 #fieldset1 {
     border-bottom: none
@@ -106,9 +128,7 @@ fieldset label {
     width: 324px;
 }
 
-
 fieldset button {
-    
     width: 294px;
     height: 32px;
     background-color: #0077C5;
