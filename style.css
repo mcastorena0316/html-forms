@@ -79,7 +79,16 @@ fieldset span {
     color: #4C4C4C;
     font-family: Arial, Helvetica, sans-serif;
     display: block;
-    text-align: center
+    text-align: center;
+    margin-bottom: 0;
+}
+
+#fieldset1 a{
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+
 }
 
 form {
@@ -147,4 +156,23 @@ fieldset button {
     text-align: center;
     margin-top: 25px;
     margin-bottom: 25px
+}
+
+footer p{
+    color: #505050;
+    font-size: 12px;
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#copywright{
+    margin-bottom: 0;
+
+
+}
+#terms{
+    margin-top:0;
+    margin-bottom: 20px
 }
