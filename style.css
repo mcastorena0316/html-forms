@@ -1,175 +1,175 @@
 body {
-    background-color: #eceef1;
+  background-color: #eceef1;
 }
 
 header {
-    width: 100%;
+  width: 100%;
 }
 
 header button,
 header h5 {
-    float: right;
+  float: right;
 }
 
 header button {
-    margin: 15px;
-    width: 100px;
-    height: 35px;
-    background-color: #0077c5;
-    border-radius: 5px;
-    color: white;
-    border: none;
+  margin: 15px;
+  width: 100px;
+  height: 35px;
+  background-color: #0077c5;
+  border-radius: 5px;
+  color: white;
+  border: none;
 }
 
 header h5 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
-    color: #505050;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #505050;
 }
 
 main {
-    width: 350px;
-    padding: 30px;
-    margin: 0 auto;
-    justify-content: center;
+  width: 350px;
+  padding: 30px;
+  margin: 0 auto;
+  justify-content: center;
 }
 
 main img {
-    width: 118px;
-    height: 60px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  width: 118px;
+  height: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .logo1 {
-    width: 60px;
-    height: 19px;
-    margin: 10px 5px 15px;
+  width: 60px;
+  height: 19px;
+  margin: 10px 5px 15px;
 }
 
 .logo2 {
-    width: 113px;
-    height: 19px;
-    margin: 10px 5px 15px;
+  width: 113px;
+  height: 19px;
+  margin: 10px 5px 15px;
 }
 
 .logo3 {
-    width: 92px;
-    height: 19px;
-    margin: 10px 5px 15px;
+  width: 92px;
+  height: 19px;
+  margin: 10px 5px 15px;
 }
 
 #logo-container {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 fieldset span {
-    font-size: 24px;
-    color: #4C4C4C;
-    font-family: Arial, Helvetica, sans-serif;
-    display: block;
-    text-align: center;
-    margin-top: 20px;
+  font-size: 24px;
+  color: #4C4C4C;
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  text-align: center;
+  margin-top: 20px;
 }
 
 #account {
-    font-size: 14px;
-    color: #4C4C4C;
-    font-family: Arial, Helvetica, sans-serif;
-    display: block;
-    text-align: center;
-    margin-bottom: 0;
+  font-size: 14px;
+  color: #4C4C4C;
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  text-align: center;
+  margin-bottom: 0;
 }
 
 #fieldset1 a {
-    display: block;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
+  display: block;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
 }
 
 form {
-    background-color: white;
-    width: 100%;
+  background-color: white;
+  width: 100%;
 }
 
 fieldset label {
-    color: #404040;
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
+  color: #404040;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #e-mail,
 #phone {
-    margin-top: 5px;
-    margin-bottom: 30px;
-    border: 1px solid #C1C5C8;
-    border-radius: 3px;
-    width: 320px;
-    height: 24px;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  border: 1px solid #C1C5C8;
+  border-radius: 3px;
+  width: 320px;
+  height: 24px;
 }
 
 #password {
-    margin-top: 5px;
-    margin-bottom: 15px;
-    border: 1px solid #C1C5C8;
-    border-radius: 3px;
-    width: 320px;
-    height: 24px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #C1C5C8;
+  border-radius: 3px;
+  width: 320px;
+  height: 24px;
 }
 
 #e-mail:focus,
 #phone:focus,
 #password:focus {
-    border: 1px solid #52A8EC;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, .075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+  border: 1px solid #52A8EC;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
 }
 
 #fieldset1 {
-    border-bottom: none;
+  border-bottom: none;
 }
 
 #fieldset2 {
-    border-top: none;
-    width: 324px;
+  border-top: none;
+  width: 324px;
 }
 
 fieldset button {
-    width: 294px;
-    height: 32px;
-    background-color: #0077C5;
-    border-radius: 5px;
-    color: white;
-    border: none;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  width: 294px;
+  height: 32px;
+  background-color: #0077C5;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #fieldset2 p {
-    font-size: 12px;
-    font-style: italic;
-    color: #757575;
-    text-align: center;
-    margin-top: 25px;
-    margin-bottom: 25px;
+  font-size: 12px;
+  font-style: italic;
+  color: #757575;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 footer p {
-    color: #505050;
-    font-size: 12px;
-    display: block;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+  color: #505050;
+  font-size: 12px;
+  display: block;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #copywright {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 #terms {
-    margin-top: 0;
-    margin-bottom: 20px
+  margin-top: 0;
+  margin-bottom: 20px
 }
